@@ -39,7 +39,7 @@ SQL queries were used to analyze:
 - Repeat incidents suggest opportunities for improved monitoring, validation, and preventative controls.
 
 ## Tools Used
-- Google Sheets (incident tracking and data preparation)
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1Su7bCvs-keLVxRBfmugzizxVbBeJsOXGalyCwQQewKQ/edit?usp=sharing) (incident tracking and data preparation)
 - SQLite (data storage and querying)
 - SQL (analysis)
 - GitHub (documentation and version control)
