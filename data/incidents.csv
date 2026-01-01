@@ -1,0 +1,31 @@
+Incident_ID	Reported_Date	Application_Name	Issue_Type	Severity	Status	Assigned_Team	Resolution_Date	Resolution_Time_Hours	Root_Cause	Resolution_Notes
+INC-0001	11/12/2025	Customer Account Portal	Login/Auth	High	Resolved	Engineering	11/13/2025	24	Token expiration misconfigured	Updated auth token TTL and redeployed service
+INC-0002	11/14/2025	POS	Hardware/Device (POS)	Medium	Resolved	Support (Tier 1)	11/14/2025	0	Device driver error	Reinstalled driver and rebooted terminal
+INC-0003	11/16/2025	Order Management System (OMS)	Integration/API	High	In Progress	Engineering				Investigating intermittent 500 errors from vendor API
+INC-0004	11/18/2025	Inventory Sync Service	Data Sync	High	Resolved	Data/DBA	11/20/2025	48	Duplicate records causing sync failure	Deduped records and added validation rule
+INC-0005	11/19/2025	Billing & Reporting Dashboard	Report/Data Accuracy	Medium	Resolved	Data/DBA	11/19/2025	0	Incorrect filter logic	Corrected query filter and refreshed report
+INC-0006	11/21/2025	POS	Payment/Checkout	High	Resolved	Vendor	11/22/2025	24	Payment gateway outage	Vendor restored service; monitored until stable
+INC-0007	11/23/2025	Customer Account Portal	Login/Auth	Medium	Resolved	Support (Tier 2)	11/23/2025	0	Role misassigned	Corrected user role and documented steps
+INC-0008	11/25/2025	Order Management System (OMS)	Performance/Timeout	Medium	Resolved	Engineering	11/26/2025	24	Slow DB query	Added index and optimized query
+INC-0009	11/27/2025	Inventory Sync Service	Data Sync	Medium	Resolved	Support (Tier 2)	11/28/2025	24	Scheduled job failed	Restarted job and added alerting
+INC-0010	11/29/2025	Billing & Reporting Dashboard	UI Bug	Low	Open	Support (Tier 1)			UI alignment issue reported; gathering screenshots	
+INC-0011	11/30/2025	Customer Account Portal	Login/Auth	Low	Resolved	Engineering	11/30/2025	0	Session timeout	Updated auth token TTL and redeployed service
+INC-0012	12/1/2025	POS	Hardware/Device (POS)	High	Resolved	Support (Tier 1)	12/3/2025	48	Network latency	Reinstalled driver and rebooted terminal
+INC-0013	12/2/2025	Order Management System (OMS)	Integration/API	Medium	In Progress	Engineering				Investigating intermittent 500 errors from vendor API
+INC-0014	12/3/2025	Inventory Sync Service	Data Sync	Low	Resolved	Data/DBA	12/3/2025	0	Duplicate records causing sync failure	Deduped records and added validation rule
+INC-0015	12/4/2025	Billing & Reporting Dashboard	Report/Data Accuracy	Medium	In Progress	Data/DBA				Corrected query filter and refreshed report
+INC-0016	12/5/2025	POS	Payment/Checkout	Low	Resolved	Vendor	12/5/2025	0	Network latency	Vendor restored service; monitored until stable
+INC-0017	12/6/2025	Customer Account Portal	Login/Auth	Medium	In Progress	Support (Tier 2)				Corrected user role and documented steps
+INC-0018	12/7/2025	Order Management System (OMS)	Performance/Timeout	High	Resolved	Engineering	12/9/2025	48	Slow DB query	Added index and optimized query
+INC-0019	12/8/2025	Inventory Sync Service	Data Sync	Low	Resolved	Support (Tier 2)	12/8/2025	0	Scheduled job failed	Restarted job and added alerting
+INC-0020	12/9/2025	Billing & Reporting Dashboard	UI Bug	High	Open	Support (Tier 1)			UI alignment issue reported; gathering screenshots	
+INC-0021	12/10/2025	Customer Account Portal	Login/Auth	Low	Resolved	Engineering	12/10/2025	0	Session timeout	Updated auth token TTL and redeployed service
+INC-0022	12/11/2025	POS	Hardware/Device (POS)	Medium	Resolved	Support (Tier 1)	12/12/2025	24	Device driver error	Reinstalled driver and rebooted terminal
+INC-0023	12/12/2025	Order Management System (OMS)	Integration/API	Medium	In Progress	Engineering				Investigating intermittent 500 errors from vendor API
+INC-0024	12/13/2025	Inventory Sync Service	Data Sync	Low	Resolved	Data/DBA	12/13/2025	0	Missing validation	Deduped records and added validation rule
+INC-0025	12/14/2025	Billing & Reporting Dashboard	Report/Data Accuracy	High	Resolved	Data/DBA	12/16/2025	48	Incorrect filter logic	Corrected query filter and refreshed report
+INC-0026	12/15/2025	POS	Payment/Checkout	Medium	Resolved	Vendor	12/16/2025	24	Payment gateway outage	Vendor restored service; monitored until stable
+INC-0027	12/16/2025	Customer Account Portal	Login/Auth	Medium	In Progress	Support (Tier 2)				Corrected user role and documented steps
+INC-0028	12/17/2025	Order Management System (OMS)	Performance/Timeout	Medium	Resolved	Engineering	12/18/2025	24	Slow DB query	Added index and optimized query
+INC-0029	12/18/2025	Inventory Sync Service	Data Sync	Medium	Resolved	Support (Tier 2)	12/19/2025	24	Missing validation	Restarted job and added alerting
+INC-0030	12/19/2025	Billing & Reporting Dashboard	UI Bug	High	Open	Support (Tier 1)			UI alignment issue reported; gathering screenshots	
