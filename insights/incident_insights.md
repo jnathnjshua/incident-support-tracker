@@ -4,7 +4,7 @@
 
 This memo summarizes recent application support incidents to identify recurring issue patterns, resolution trends, and operational risk areas across core business systems. The goal is to highlight opportunities to reduce incident frequency, improve resolution time, and strengthen overall system reliability.
 
-#Incident Volume by Application
+## Incident Volume by Application
 
 Incident analysis shows that the highest volume of support tickets originated from the Order Management System (OMS), Point of Sale (POS), and Inventory Sync Service. These systems are critical to daily operations and appear to be more susceptible to recurring operational and integration-related issues. Customer-facing systems, such as the Customer Account Portal, also generated repeated incidents related to access and authentication.
 
