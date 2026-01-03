@@ -1,6 +1,7 @@
 Incident Support Insights Summary
 
 Overview
+
 This memo summarizes recent application support incidents to identify recurring issue patterns, resolution trends, and operational risk areas across core business systems. The goal is to highlight opportunities to reduce incident frequency, improve resolution time, and strengthen overall system reliability.
 
 Incident Volume by Application
